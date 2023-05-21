@@ -1,0 +1,71 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "code alert",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "HelloWorldIntent",
+          "slots": [],
+          "samples": [
+            "hello",
+            "how are you",
+            "say hi world",
+            "say hi",
+            "hi",
+            "say hello world",
+            "say hello"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "GetContestsIntent",
+          "slots": [],
+          "samples": [
+            "what are the contests",
+            "can you tell me about the contests",
+            "show contest",
+            "can you tell me the contest details",
+            "give contest details",
+            "can you get contest details please",
+            "can you show me contest details",
+            "can you give contest details",
+            "can you tell contest details",
+            "what are the contest details",
+            "can you give me contest details",
+            "can you tell me contest details",
+            "tell contest details",
+            "can you get contest details",
+            "get me contest details",
+            "show contest details",
+            "upcoming coding contests",
+            "what contests are happening",
+            "get contest details",
+            "tell me about the contests",
+            "upcoming contests"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "3"
+}
